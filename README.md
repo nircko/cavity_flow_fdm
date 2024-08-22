@@ -2,7 +2,11 @@
 
 This project implements a finite difference method to solve the 2D incompressible Navier-Stokes equations for a stepped cavity flow. The code simulates the fluid flow inside a cavity with a step and visualizes the resulting velocity and pressure fields.
 
-## Introduction
+<p align="center">
+  <img src="https://github.com/nircko/cavity_flow_fdm/blob/d5614d712b284fdeb111120bccdc48d61dbdc45d/data/cavity_flow.png" alt="Cavity Flow Result" width="400"/>
+</p>
+
+
 
 ### Navier-Stokes Equations
 
